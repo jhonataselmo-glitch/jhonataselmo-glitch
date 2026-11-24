@@ -23,9 +23,9 @@ Tenho mais de 15 anos de experiência em **TI**, com atuação em infraestrutura
 | --- | --- |
 | **Apura.IA** | Visualização de dados públicos eleitorais do TSE, navegação por localidades e mapa interativo. [Caso e acesso](https://github.com/jhonataselmo-glitch/jhowselmo/blob/main/projetos/apura-ia.md) |
 | **JS Labs** | Site, CRM comercial/financeiro, prospecção e automações com IA. [Minha atuação](https://github.com/jhonataselmo-glitch/jhowselmo/blob/main/projetos/js-labs.md) |
-| **NORT Desktop AI** | MVP Python/PySide6 com planejamento de automação, aprovação humana e auditoria. [Código e arquitetura](https://github.com/jhonataselmo-glitch/jhowselmo/tree/main/codigo/nort-desktop-ai) |
-| **AWS Bedrock Assistant** | Demonstração Python de resumo de texto com IA, cliente injetável, limites de entrada/tokens, exemplo IAM e oito testes offline. [Código e validação](https://github.com/jhonataselmo-glitch/jhowselmo/tree/main/codigo/aws-bedrock-assistant) |
-| **Portfólio React** | Interface em TypeScript/React, CSS e build estático JavaScript. [Fontes](https://github.com/jhonataselmo-glitch/jhowselmo/tree/main/codigo/portfolio-react) |
+| **NORT Desktop AI** | MVP Python/PySide6 com planejamento de automação, aprovação humana e auditoria. [Código e arquitetura](https://github.com/jhonataselmo-glitch/nort-desktop-ai) |
+| **AWS Bedrock Assistant** | Demonstração Python de resumo de texto com IA, cliente injetável, limites de entrada/tokens, exemplo IAM e oito testes offline. [Código e validação](https://github.com/jhonataselmo-glitch/aws-bedrock-assistant) |
+| **Portfólio React** | Interface em TypeScript/React, CSS e build estático JavaScript. [Fontes](https://github.com/jhonataselmo-glitch/portfolio-react) |
 | **NORT.AI** | Conceito e base web de consultoria/plataforma de dados, BI, estratégia, automação e IA. [MVP em desenvolvimento](https://github.com/jhonataselmo-glitch/nortia) |
 
 ## Minha forma de trabalhar
